@@ -7,3 +7,5 @@ pip install torch torchvision torchaudio
 pip install torch torchvision torchaudio -f https://download.pytorch.org/whl/torch_stable.html
 For more about pYtorch follow this link: (https://pytorch.org/docs/stable/index.html)
 
+# LOGO
+https://icon-icons.com/icon/pytorch-logo/169823
