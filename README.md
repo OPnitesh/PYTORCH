@@ -6,4 +6,4 @@ pip install torch torchvision torchaudio
 # For CUDA-enabled version (adjust the cuda version according to your setup)
 pip install torch torchvision torchaudio -f https://download.pytorch.org/whl/torch_stable.html
 For more about pYtorch follow this link: (https://pytorch.org/docs/stable/index.html)
-https://icon-icons.com/icon/pytorch-logo/169823
+
